@@ -77,9 +77,6 @@ Java ☕
 - Java Backend Development
 - Spring Boot & REST API
  ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufcode&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufcode&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
+
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff" width="100%"/>
