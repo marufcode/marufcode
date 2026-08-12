@@ -76,3 +76,5 @@ Java ☕
 ## 🌱 Currently Learning
 - Java Backend Development
 - Spring Boot & REST API
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff" width="100%"/>
