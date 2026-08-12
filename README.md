@@ -35,24 +35,25 @@ Passionate about Java backend development
 Interested in building scalable server-side applications.
 
 ```java
-public class MarufHossain {
-    private String role = "Aspiring Java Backend Developer";
-    private String status = "Diploma Engineering Student @ Bangladesh";
+public class JahidHasanMaruf {
+    private String role = "Java Backend Development Intern (Seeking)";
+    private String status = "Diploma in CS Technology Student, Narayanganj Polytechnic Institute";
     private int graduationYear = 2027;
-    private String location = "Dhaka, Bangladesh";
+    private String location = "Narayanganj, Dhaka";
+    private String phone = "01770-484581";
+    private String email = "maruf.runtime@gmail.com";
     private String[] techStack = {
-        "Java", "Spring Boot", "OOP",
-        "MySQL", "REST APIs", "Git"
+        "Java", "Spring Boot", "Spring Data JPA",
+        "MySQL", "Postman", "IntelliJ IDEA",
+        "OOP", "REST API", "Git", "GitHub"
     };
-    private String[] funFacts = {
-        "Souls series veteran — Sekiro & Elden Ring",
-        "Started Java in March 2026, no regrets",
-
+    private String[] projects = {
+        "Expense Tracker API — Spring Boot, Spring Data JPA, MySQL",
+        "Portfolio Website — HTML, CSS, JavaScript",
+        "8086 Microprocessor-Based Simple System — 8086 Assembly",
+        "VRRP-Based Network Redundancy — Cisco Packet Tracer"
     };
-
-    public String getMotivation() {
-        return "Building things that actually work > talking about building things";
-    }
+    private String extraCurricular = "College Football Tournament Winner";
 }
 ```
 
