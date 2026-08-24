@@ -1,7 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Marufly&style=flat-square&color=blue)
 ## 👋 Hi I'm Jahid Hasan Maruf
 <br>
-
+<a href="https://marufcode.github.io/project-2-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+</a>
 <p align="center">
   <a href="https://www.linkedin.com/in/jahid-hasan-maruf-8571003a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
